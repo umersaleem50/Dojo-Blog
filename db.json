@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome to my blog",
+      "body": "This is the body of the blog 1",
+      "auther": "Aqib",
+      "id": 1
+    },
+    {
+      "title": "New Technologies",
+      "body": "This is the body of the blog 1",
+      "auther": "Bilal",
+      "id": 2
+    },
+    {
+      "title": "This is test blog",
+      "body": "This is a test to create a new blog",
+      "author": "bilal",
+      "id": 4
+    }
+  ]
+}
